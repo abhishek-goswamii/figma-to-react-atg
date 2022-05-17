@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/figma-to-react-atg/static/css/main.0758d64e.css",
+    "main.js": "/figma-to-react-atg/static/js/main.232abb7a.js",
+    "static/media/project-bg.jpeg": "/figma-to-react-atg/static/media/project-bg.a82543ed67301d1b818f.jpeg",
+    "index.html": "/figma-to-react-atg/index.html",
+    "main.0758d64e.css.map": "/figma-to-react-atg/static/css/main.0758d64e.css.map",
+    "main.232abb7a.js.map": "/figma-to-react-atg/static/js/main.232abb7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0758d64e.css",
+    "static/js/main.232abb7a.js"
+  ]
+}
